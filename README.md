@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repo for Dec 2014 Data Science Coursera course for KwamiN
+Repo for December 2014 Data Science course from Coursera for KwamiN.
